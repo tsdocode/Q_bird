@@ -1,0 +1,5 @@
+tqdm==4.50.2
+gym_ple==0.3
+gym==0.15.4
+numpy==1.20.3
+pygame== 2.0.1
